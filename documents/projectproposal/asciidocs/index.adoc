@@ -1,4 +1,4 @@
-= Project Proposal - LeoTurnier
+= Project Proposal - LeoSurvey
 Trinkl Philip, Tischler Fabian
 1.0.0, 2020-10-12:
 ifndef::imagesdir[:imagesdir: images]
